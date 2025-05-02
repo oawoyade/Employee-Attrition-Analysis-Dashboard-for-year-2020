@@ -17,9 +17,8 @@ The dataset used is a synthetic HR dataset reflecting organizational structure, 
 
 ## 🛠️ Tools and Methodology
 
-- **Microsoft Power BI**: Used for data modeling, visual analytics, and dashboard development.
+- **Microsoft Excel**: Used for visual analytics, and dashboard development.
 - **Excel**: Used for early-stage data exploration and shaping.
-- **DAX (Data Analysis Expressions)**: Used to compute attrition metrics, departmental insights, and performance comparisons.
 - **Segmentation**: Employees are analyzed by age group, job role, education, and department for granular insights.
 
 ---
